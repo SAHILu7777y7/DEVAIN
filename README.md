@@ -1,19 +1,4 @@
 
-
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-
-<meta name="generator" content="Jekyll v3.10.0" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://DEVAINu7777y7.github.io/DEVAIN/" />
-<meta property="og:url" content="https://DEVAINu7777y7.github.io/DEVAIN/" />
-
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"WebSite","headline":"DEVAIN","name":"DEVAIN","url":"https://DEVAINu7777y7.github.io/DEVAIN/"}</script>
 <!-- End Jekyll SEO tag -->
