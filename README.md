@@ -1,5 +1,4 @@
 
-<html lang="en-US">
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,14 +7,13 @@
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 
 <meta name="generator" content="Jekyll v3.10.0" />
-<meta property="og:title" content="DEVAIN />
 <meta property="og:locale" content="en_US" />
 <link rel="canonical" href="https://DEVAINu7777y7.github.io/DEVAIN/" />
 <meta property="og:url" content="https://DEVAINu7777y7.github.io/DEVAIN/" />
-<meta property="og:site_name" content="DEWAIN" />
+
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="DEVAIN" />
+
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"WebSite","headline":"DEVAIN","name":"DEVAIN","url":"https://DEVAINu7777y7.github.io/DEVAIN/"}</script>
 <!-- End Jekyll SEO tag -->
