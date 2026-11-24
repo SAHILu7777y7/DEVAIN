@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
@@ -156,10 +156,12 @@ n.queue=[];t=b.createElement(e);t.async=!0;
 t.src=v;s=b.getElementsByTagName(e)[0];
 s.parentNode.insertBefore(t,s)}(window, document,'script',
 'https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '1605392854956292');
+fbq('init', '2245672346359275');
 fbq('track', 'PageView');
 </script>
-<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1605392854956292&amp;ev=PageView&amp;noscript=1" /></noscript>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=2245672346359275&ev=PageView&noscript=1"
+/></noscript>
 <!-- End Meta Pixel Code -->
 </head>
 <body>
@@ -174,12 +176,12 @@ fbq('track', 'PageView');
 </div>
 <div class="wrap">
   <header>
-    <div class="brand">𝗦𝗔𝗛𝗜𝗟 𝗩𝗜𝗣 𝗖𝗛𝗔𝗡𝗡𝗘𝗟</div>
+    <div class="brand"> 𝗩𝗜𝗣 𝗖𝗛𝗔𝗡𝗡𝗘𝗟</div>
     <a class="badge" href="https://t.me/+XgQrb-fu1h1mMTQ1" target="_blank" rel="noopener noreferrer">ADS BY SAHIL</a>
   </header>
   <main>
     <section class="hero">
-      <h1>𝗦𝗔𝗛𝗜𝗟 𝗩𝗜𝗣 𝗖𝗛𝗔𝗡𝗡𝗘𝗟</h1>
+      <h1> 𝗩𝗜𝗣 𝗖𝗛𝗔𝗡𝗡𝗘𝗟</h1>
       <div class="rule"></div>
       <p class="sub">Market insights, numbers &amp; trading-focused updates — all in one place.</p>
       <a class="cta" href="https://t.me/+XgQrb-fu1h1mMTQ1" target="_blank" rel="noopener noreferrer">JOIN TELEGRAM</a>
@@ -193,7 +195,7 @@ fbq('track', 'PageView');
 
     <p class="note">Content is for information only and is not investment advice. Markets carry risk, and past performance does not guarantee future results.</p>
   </main>
-  <footer>© 2026 𝗦𝗔𝗛𝗜𝗟 𝗩𝗜𝗣 𝗖𝗛𝗔𝗡𝗡𝗘𝗟� 🗿� All rights reserved.</footer>
+  <footer>© 2026  𝗩𝗜𝗣 𝗖𝗛𝗔𝗡𝗡𝗘𝗟� 🗿� All rights reserved.</footer>
 </div>
 </body>
 </html>
