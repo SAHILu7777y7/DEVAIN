@@ -1,26 +1,4 @@
 
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"DEVAIN","name":"DEVAIN","url":"https://DEVAINu7777y7.github.io/DEVAIN/"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/DEVAIN/assets/css/style.css?v=6444ebdc7da7ea69e07bad23fe8eb39338cb9e83">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/DEVAIN/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
-  </head>
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="https://DEVAINu7777y7.github.io/DEVAIN/">DEVAIN</a></h1>
-      
 
       
 <html lang="en-US">
